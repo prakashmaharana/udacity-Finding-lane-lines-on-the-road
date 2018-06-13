@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them ( Mac OS )
+Things to install ( Mac OS )
 
 * Install Anaconda [here](https://www.anaconda.com/download/#macos)
 * Create environment conda create --name `myenv` python=3.6 
