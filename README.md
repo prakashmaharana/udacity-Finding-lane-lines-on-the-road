@@ -8,7 +8,7 @@ This project would use following machine learning algorithm
 * Gaussian Filter Matrix for image blur
 * Hough Transform
 
-More details can be found in writeup.md
+More details can be found in **writeup.md**
 
 ---
 # Getting Started
