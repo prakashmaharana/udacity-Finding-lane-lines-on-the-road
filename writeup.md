@@ -59,7 +59,7 @@ Use ```np.mean``` to calculate mean slope and intercept
 Use ```x = ( y - c ) / m ``` to get new xmin and xmax values where ymin is minimum y coordinate in the hough transformed image
 and ymax is height of image ```image.shape[0]```
 
-Use ***addWeighted*** method in OpenCV to blend red color lines in the image.More details can be found [here](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_core/py_image_arithmetics/py_image_arithmetics.html)
+Use ***addWeighted*** method in OpenCV to blend color lines in the image .More details can be found [here](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_core/py_image_arithmetics/py_image_arithmetics.html)
 
 
 
@@ -70,4 +70,4 @@ Current pipeline can not handle images and video which have curves.This can be f
 
 ### 3. Suggest possible improvements to your pipeline
 
-I have added plt.subplot so that once we run all images we can see original and modified images in parallel.
+I have added plt.subplot so that once we process images we can see original and modified images in parallel.
