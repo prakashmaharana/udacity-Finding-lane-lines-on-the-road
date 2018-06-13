@@ -1,10 +1,9 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
+Purpose of the project is to detect lines on the road.First we start with few images to check if algorithm works on overlaying lines correctly and if it works with images than video is just stream of images where same algorithm can be applied.
 ---
+# **Getting Started
+
 
 **Finding Lane Lines on the Road**
 
