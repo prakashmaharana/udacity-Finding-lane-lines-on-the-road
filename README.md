@@ -1,5 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
+# Overview
 The purpose of this project is to detect lines on the road.We start with images to check if algorithm works on overlaying lines correctly and once it works on images same is applied to video as video is just a stream of images.
 
 This project would use following machine learning algorithm
