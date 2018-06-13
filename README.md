@@ -2,47 +2,27 @@
 
 The purpose of this project is to detect lines on the road.We start with images to check if algorithm works on overlaying lines correctly and once it works on images same is applied to video as video is just a stream of images.
 
----
-# **Getting Started
+This project would use following machine learning algorithm
+* GrayScale transform
+* Canny Edge detection
+* Gaussian Filter Matrix for image blur
+* Hough Transform
 
-
-**Finding Lane Lines on the Road**
-
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
-
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+More details can be found in writeup.md
 
 ---
+# Getting Started
 
-### Reflection
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### Prerequisites
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
+What things you need to install the software and how to install them ( Mac OS )
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
-
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
-
-
-### 2. Identify potential shortcomings with your current pipeline
+* Install Anaconda [here](https://www.anaconda.com/download/#macos)
+* Create environment conda create --name `myenv` python=3.6 
+* To start working on myenv ```source activate myenv```
+* Run ```anaconda-navigator``` to use vscode for debugging and jupyter to run P1.ipynb
 
 
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
-
-### 3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
 
