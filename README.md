@@ -9,7 +9,12 @@ This project would use following machine learning algorithm
 * Gaussian Filter Matrix for image blur
 * Hough Transform
 
-More details can be found in **writeup.md**
+Repository has following folder/files
+
+* test_images - Folder has images files and images with output_* are output files
+* test_videos - Folder has video files 
+* test_videos_output - Folder has video files generated after processing
+* writeup.md - File has details about approach
 
 ---
 # Getting Started
