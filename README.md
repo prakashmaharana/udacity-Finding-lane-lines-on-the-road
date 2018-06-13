@@ -14,6 +14,7 @@ Repository has following folder/files
 * test_images - Folder has images files and images with output_* are output files
 * test_videos - Folder has video files 
 * test_videos_output - Folder has video files generated after processing
+* P1.ipynb is jupyter notebook to run lane lines algorithm for images and videos
 * writeup.md - File has details about approach
 
 ---
