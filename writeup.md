@@ -38,10 +38,10 @@ slope = (y2-y1)/(x2-x1)
 
 Difference of X coordinates can lead to infinite slope so needs to be handled.
 
-'''
+```
 ∀ x ∈ N, -∞ <x < +∞
 ∀ x ∈ Z, -∞ < x < +∞
-'''
+```
 Meaning every natural number (positive integers, i.e., 0, 1, 2, …) is smaller than 
 positive infinity (+∞) and all positive and negative integers (…, -2, -1, 0, 1, 2, …) 
 are bigger than negative infinity (-∞) and smaller than positive infinity.  
